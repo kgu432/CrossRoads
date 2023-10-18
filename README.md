@@ -1,7 +1,7 @@
-# Crossy Roads
-Hello! This is our group project for Android Studios Crossy Roads. 
+# Cross Roads
+Hello! This is our group project for Android Studios Cross Roads, a replica of the Crossy Roads game.
 Description
-Welcome to the Crossy Roads Android mobile game project! This game is a road-crossing adventure where you play as a character trying to reach the goal on the other side of the map. You'll have to navigate through roads filled with vehicles and rivers with floating logs. Be careful, though! Touching cars or water tiles will cost you a life, and once you run out of lives, it's game over.
+Welcome to the Cross Roads Android mobile game project! This game is a road-crossing adventure where you play as a character trying to reach the goal on the other side of the map. You'll have to navigate through roads filled with vehicles and rivers with floating logs. Be careful, though! Touching cars or water tiles will cost you a life, and once you run out of lives, it's game over.
 
 ## Sprint Progress
 
@@ -39,7 +39,7 @@ Log Implementation: Create two types of logs with distinct gameplay behaviors. A
 Win Screen: Options to restart the game or quit. Display the player's final score.
 
 ### Installation
-To play Crossy Roads on your Android device:
+To play Cross Roads on your Android device:
 
 Clone this repository.
   * Open the project in Android Studio.
@@ -50,6 +50,15 @@ Controls
   * Use on-screen controls to move the character up, down, left, and right.
   * Tap "Start" to begin the game.
   * Swipe "Quit" to exit the game.
- 
-Credits
+
+### Play-by-Play Images
+
+The start screen:
+![Alt text](readmeimages/startscreen.png?raw=true "Start")
+The select screen, where you must input a player name, the game difficulty, and select what icon you want:
+![Alt text](readmeimages/selectscreen.png?raw=true "Select")
+The play screens, where you can see the turtle icon advancing through the obstacles:
+![Alt text](readmeimages/playscreen1.png?raw=true "Play1")
+![Alt text](readmeimages/playscreen2.png?raw=true "Play2")
+### Credits
 This game was developed as a semester project by Grace Wang, Eric Chen, Hilary Chen, Justin Yang, and Katy Gu for CS 2340 at Georgia Tech :D
